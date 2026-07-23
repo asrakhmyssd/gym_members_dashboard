@@ -33,4 +33,4 @@ Interactive Excel dashboard designed to analyze gym membership data and member p
 ![dashboard2](https://github.com/asrakhmyssd/gym_members_dashboard/blob/main/2026-07-22%20(5).png)
 
 ### Pivot Tables
-![dashboard3]()
+![dashboard3](https://github.com/asrakhmyssd/gym_members_dashboard/blob/main/2026-07-22%20(7).png)
