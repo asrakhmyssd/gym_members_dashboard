@@ -1,6 +1,6 @@
 # gym_members_dashboard
 ## file Project
-![gym_members]()
+![gym_members](https://github.com/asrakhmyssd/gym_members_dashboard/blob/main/gym_members.xlsx)
 ## Overview
 Interactive Excel dashboard designed to analyze gym membership data and member performance.
 
